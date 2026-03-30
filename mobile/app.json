@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "RN Expo Node Boilerplate",
+    "slug": "rn-expo-node-boilerplate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios","android","web"],
+    "newArchEnabled": true,
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
