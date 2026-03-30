@@ -4,14 +4,23 @@
     "slug": "rn-expo-node-boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
-    "platforms": ["ios","android","web"],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "newArchEnabled": true,
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.pl1246851.rnexponodeboilerplate"
     }
   }
 }
