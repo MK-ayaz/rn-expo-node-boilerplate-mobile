@@ -41,6 +41,6 @@ Then open Expo Go or use `npm run android` / `npm run ios`.
 - `src/middleware`: standard error handling
 
 ## Policies
-- Uses Expo SDK 49 non-deprecated APIs
+- Uses Expo SDK 55 non-deprecated APIs
 - Include proper typing and production-safe defaults
 - Built for real-world upgrade paths
